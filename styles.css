@@ -1,0 +1,17 @@
+.title{
+ font-family: fantasy;
+ color: white;
+ font-size: 90px;
+}
+
+.body.home{
+    width: 500px;
+    height: auto;
+    background-image: url(odin_cooking.webp);
+}
+
+ul li {
+    font-size: 30px;
+    text-align: center;
+}
+
